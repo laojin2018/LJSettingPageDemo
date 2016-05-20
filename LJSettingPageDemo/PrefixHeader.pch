@@ -1,0 +1,33 @@
+//
+//  PrefixHeader.pch
+//  彩票demo
+//
+//  Created by lemon on 16/5/16.
+//  Copyright © 2016年 jinxicheng. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//组
+#define LJHeader @"LJHeader"
+#define LJFooter @"LJFooter"
+#define LJItems @"LJItems"
+//cell
+#define LJIcon @"LJIcon"
+#define LJTitle @"LJTitle"
+#define LJAccessoryType @"LJAccessoryType"
+#define LJAccessoryName @"LJAccessoryName"
+#define LJTargetVc @"LJTargetVc"
+#define LJPlistName @"LJPlistName"
+#define LJCellStyle @"LJCellStyle"
+#define LJSubtitle @"LJSubtitle"
+#define LJHighLight @"LJHighLight"
+#define LJKeyName @"LJKeyName"
+#define LJFuncName @"LJFuncName"
+
+#import "LJSettingVC.h"
+#import "LJSettingCell.h"
+#import "LJStartVC.h"
+
+#endif /* PrefixHeader_pch */

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>LJHeader</key>
+		<string></string>
+		<key>LJFooter</key>
+		<string>开启后,当我投注或关注的开始,当我投注或关注的开,当我投注或关注的开,当我投注或关注的开</string>
+		<key>LJItems</key>
+		<array>
+			<dict>
+				<key>LJTitle</key>
+				<string>推送我关注的比赛</string>
+				<key>LJAccessoryType</key>
+				<string>UISwitch</string>
+				<key>LJKeyName</key>
+				<string>settingPush2_tuisongwoguanzhudebisai</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>LJHeader</key>
+		<string>只在以下时间段接受比分直播推送</string>
+		<key>LJFooter</key>
+		<string></string>
+		<key>LJItems</key>
+		<array>
+			<dict>
+				<key>LJTitle</key>
+				<string>起始时间</string>
+				<key>LJSubtitle</key>
+				<string>00:00</string>
+				<key>LJCellStyle</key>
+				<string>UITableViewCellStyleValue1</string>
+				<key>LJHighLight</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>LJHeader</key>
+		<string></string>
+		<key>LJFooter</key>
+		<string></string>
+		<key>LJItems</key>
+		<array>
+			<dict>
+				<key>LJTitle</key>
+				<string>结束时间</string>
+				<key>LJSubtitle</key>
+				<string>23:59</string>
+				<key>LJCellStyle</key>
+				<string>UITableViewCellStyleValue1</string>
+				<key>LJHighLight</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>LJHesder</key>
+		<string></string>
+		<key>LJFooter</key>
+		<string></string>
+		<key>LJItems</key>
+		<array>
+			<dict>
+				<key>LJAccessoryType</key>
+				<string>UIImageView</string>
+				<key>LJAccessoryName</key>
+				<string>arrow_right</string>
+				<key>LJTitle</key>
+				<string>开奖推送</string>
+				<key>LJTargetVc</key>
+				<string>LJSettingVC</string>
+				<key>LJPlistName</key>
+				<string>LJSettingPush1</string>
+			</dict>
+			<dict>
+				<key>LJAccessoryType</key>
+				<string>UIImageView</string>
+				<key>LJAccessoryName</key>
+				<string>arrow_right</string>
+				<key>LJTitle</key>
+				<string>比分直播推送</string>
+				<key>LJTargetVc</key>
+				<string>LJScoreLiveVC</string>
+				<key>LJPlistName</key>
+				<string>LJSettingPush2</string>
+			</dict>
+			<dict>
+				<key>LJAccessoryType</key>
+				<string>UIImageView</string>
+				<key>LJAccessoryName</key>
+				<string>arrow_right</string>
+				<key>LJTitle</key>
+				<string>中奖动画</string>
+			</dict>
+			<dict>
+				<key>LJAccessoryType</key>
+				<string>UIImageView</string>
+				<key>LJAccessoryName</key>
+				<string>arrow_right</string>
+				<key>LJTitle</key>
+				<string>购彩提醒</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
